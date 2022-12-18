@@ -5,7 +5,7 @@
 --Date: 2022.12
 --
 --File: Data_define.hs
---Note: define data
+--Note: define data struct
 --Designers: He Chenlong
 --Writers: He Chenlong
 ---------------------------------------------------------------------------------------------------------------------------------------

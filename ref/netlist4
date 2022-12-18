@@ -1,6 +1,0 @@
-Mi  netb  netb  gnd  gnd  NMOS
-Mss  net01  netb  gnd  gnd  NMOS
-M1  net02  v+  net01  gnd  NMOS
-M2  net03  v-  net01  gnd  NMOS
-M3  net02  net02  vdd  vdd  PMOS
-M4  net03  net02  vdd  vdd  PMOS
